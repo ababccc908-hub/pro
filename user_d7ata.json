@@ -1,0 +1,21 @@
+{
+    "7873301088": {
+        "templates": {},
+        "known_chats": {},
+        "scheduling": {
+            "active": true,
+            "step": "group_type",
+            "templates": [
+                {
+                    "text": "نشر تلقائي ، عرضك دزه خاص",
+                    "media_path": "media/7873301088_1.jpg"
+                }
+            ],
+            "interval": 120,
+            "count": 100,
+            "last_msg_id": [
+                1475
+            ]
+        }
+    }
+}
