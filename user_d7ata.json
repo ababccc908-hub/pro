@@ -16,6 +16,53 @@
             "last_msg_id": [
                 1475
             ]
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "اريد حساب او حسابات بيس كسر تكون قويه و ريت فوك 3150 \n ما يهم السعر \nاعرض ، و اهم شي كسر"
+                }
+            ],
+            "interval": 600,
+            "groups": [
+                "channel:2244982894",
+                "channel:2540129335",
+                "channel:2017602747",
+                "channel:2481477536",
+                "channel:2476261411",
+                "channel:1886884370",
+                "channel:2059229806",
+                "channel:2162198888",
+                "channel:2145918906",
+                "channel:2746281798",
+                "channel:1961021254",
+                "channel:2386696816",
+                "channel:2187258694",
+                "channel:2376828874",
+                "channel:2319267790",
+                "channel:2331234592",
+                "channel:1957278261",
+                "channel:1656431430",
+                "channel:2710739364",
+                "channel:2184367947",
+                "channel:2307185364",
+                "channel:2566264764",
+                "channel:2207549649",
+                "channel:1995338857",
+                "channel:2111162647",
+                "channel:2200485010",
+                "channel:2648584409",
+                "channel:2418751776",
+                "channel:1612849903",
+                "channel:2317923179",
+                "channel:2083268643",
+                "channel:2111878035"
+            ],
+            "last_msg_id": [
+                1509
+            ]
         }
     }
 }
